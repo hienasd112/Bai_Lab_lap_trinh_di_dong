@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="grid_items">
+        <item>Việt Nam</item>
+        <item>Nhật Bản</item>
+        <item>Hàn Quốc</item>
+        <item>Thái Lan</item>
+        <item>Hoa Kỳ</item>
+    </string-array>
+</resources>
